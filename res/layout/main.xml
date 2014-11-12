@@ -126,7 +126,7 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/textView10"
         android:layout_marginTop="21dp"
-        android:text="@string/refresch" />
+        android:text="@string/refresh" />
 
 </RelativeLayout>
 

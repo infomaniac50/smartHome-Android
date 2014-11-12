@@ -8,7 +8,7 @@
     <string name="window">Window:</string>
     <string name="rain">Rain:</string>
     <string name="move">Move:</string>
-    <string name="refresch">Refresch</string>
+    <string name="refresh">Refresh</string>
     <string name="save">Save</string>
     <string name="alarm">Alarm</string>
     <string name="e.g.">e.g.</string>
@@ -18,8 +18,8 @@
     <string name="close">CLOSE</string>
     <string name="now">Now:</string>
     <string name="light">Light:</string>
-    
-    
+
+
 
 
 </resources>
