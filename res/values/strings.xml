@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">smart home</string>
+    <string name="action_settings">Settings</string>
+    <string name="temp_in">Temp in:</string>
+    <string name="temp_out">Temp out:</string>
+    <string name="window">Window:</string>
+    <string name="rain">Rain:</string>
+    <string name="move">Move:</string>
+    <string name="refresch">Refresch</string>
+    <string name="save">Save</string>
+    <string name="alarm">Alarm</string>
+    <string name="e.g.">e.g.</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="now">Now:</string>
+    <string name="light">Light:</string>
+    
+    
+
+
+</resources>

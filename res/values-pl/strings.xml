@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">smart home</string>
+    <string name="action_settings">ustawienia</string>
+    <string name="temp_in">Temp. w:</string>
+    <string name="temp_out">Temp. zew:</string>
+    <string name="window">Okno:</string>
+    <string name="rain">Deszcz:</string>
+    <string name="move">Ruch:</string>
+    <string name="refresch">Odświerz</string>
+    <string name="save">Zapisz</string>
+    <string name="alarm">Alarm</string>
+    <string name="e.g.">n.p.</string>
+    <string name="yes">TAK</string>
+    <string name="no">NIE</string>
+    <string name="open">OTWARTE</string>
+    <string name="close">ZAMKNIĘTE</string>
+    <string name="now">Teraz:</string>
+    <string name="light">Światło:</string>
+    
+</resources>
